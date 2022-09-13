@@ -1,3 +1,4 @@
+- sobre mim
 - 👋 ola, meu nome é @isabellycosta0
 - 👀 estou enteresada em aprender progamar 
 - 🌱 eu estou aprendendo a progamar 
